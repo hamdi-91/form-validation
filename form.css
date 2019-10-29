@@ -1,0 +1,56 @@
+
+body {
+    background-color: #3f334a;
+}
+.bigbox {
+    height: 800px;
+    margin: 0;
+width: 100%;
+margin: 10px auto;
+display: flex;
+justify-content: space-between;
+}
+
+.boxes {
+    width: 20%;
+    margin: 50px auto;
+    padding: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.bt {
+    background-color: #2b2a3c;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: transparent;
+}
+.btt {
+    background-color: #2b2a3c;
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: transparent;
+}
+.case {
+    margin: 10px 10px;
+}
+label {
+    color: white;
+    font-size: 18px;
+}
+.button {
+    background-color: #2b2a3c;
+    width: 300px;
+    height: 30px;
+    margin: 5px 12px;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+   
+}
+ 
